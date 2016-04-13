@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joalbertifabrie05fabrgoog/joalbertifabrie05fabrgoog_0719.png"; bbox 0 0 1040 1446; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 52 806 213 836">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 52 806 213 836">
+     <span class='ocr_line' id='line_1_1' title="bbox 52 806 213 836; baseline -0.006 -6"><span class='ocrx_word' id='word_1_1' title='bbox 52 807 58 830; x_wconf 72' lang='grc' dir='ltr'><strong>ἱ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 73 806 213 836; x_wconf 69' lang='grc' dir='ltr'>Μιπὶιωιιῑσῇιῖ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 52 964 213 1057">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 52 964 213 1057">
+     <span class='ocr_line' id='line_1_2' title="bbox 52 964 213 1008; baseline 0.012 -7"><span class='ocrx_word' id='word_1_3' title='bbox 52 964 213 1008; x_wconf 47' lang='lat' dir='ltr'>§mmmm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 57 1013 213 1057; baseline -0.006 -16"><span class='ocrx_word' id='word_1_4' title='bbox 57 1013 59 1015; x_wconf 23' lang='lat' dir='ltr'><em>r</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 99 1027 102 1029; x_wconf 63' lang='grc'><strong>“</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 125 1030 213 1057; x_wconf 41' lang='lat'>*³552</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
